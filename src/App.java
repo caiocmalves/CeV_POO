@@ -9,6 +9,9 @@ public class App {
         c1.setModelo("BIC Cristal");
         c1.getModelo();
         c1.status();
+        System.out.println(c1.getCor());
+        
+        
 
     }
 }
